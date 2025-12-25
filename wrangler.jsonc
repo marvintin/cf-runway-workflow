@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "cf-runway-workflow",
+	"name": "cf-runway-workflowa",
 	"main": "src/index.ts",
 	"compatibility_date": "2025-12-25",
 	"compatibility_flags": [
